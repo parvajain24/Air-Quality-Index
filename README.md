@@ -1,6 +1,7 @@
 Predicting Air Quality Index using diffrent Machine Learning algoritms
 
 Feature Information:
+
 T	Average annual temperature
 
 TM	Annual average maximum temperature
