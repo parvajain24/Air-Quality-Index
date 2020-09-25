@@ -1,4 +1,4 @@
-Predicting Air Quality Index using diffrent Machine Learning algoritms
+Predicting Air Quality Index for year 2016, 2017 and 2018 using diffrent Machine Learning algoritms.
 
 Feature Information:
 
